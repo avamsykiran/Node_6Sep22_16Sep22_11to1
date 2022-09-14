@@ -1,0 +1,11 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "this is my first node -proejct",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

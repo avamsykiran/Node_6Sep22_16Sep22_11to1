@@ -19,5 +19,23 @@ NodeJS
         NodeJS  14 >
         MongoDB latest
 
+    Javascript ES6 concepts
+
+    Node JS and NPM
+
+    Javascript Modules
+
+        RJS Modules
+            requirejs modules
+            requirejs is a javascript library used to conceder each javascript file as a module
+            the module that wants to offer resources msut attach them to a object called 'export'
+            the module that wants to consume, can bring in the export object using 'require' method
+
+        ESM
+            ECMA Script Modules
+
+            'export' is a keyword used to export resource from a javascript module (.mjs)
+            'import' is a keyword used to import resource into a javascript file.
+
     
 

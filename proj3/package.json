@@ -1,0 +1,14 @@
+{
+  "name": "proj3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node main.js"
+  },
+  "type": "module",
+  "module": "esmodule",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
